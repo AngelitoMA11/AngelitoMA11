@@ -1,38 +1,42 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Ángel+Martínez....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
+<h1 align="center">¡Hola, soy Ángel Martínez! 👋</h1>
 
-# Studies
+<p align="center">
+  Apasionado por los datos, la nube y el impacto real de la tecnología.
+</p>
 
-- Graduated in Econoomics. University of Valencia (2020-2024) 📚	
-- Studying BigData and Cloud. EDEM
-  
-## Hobbies 
+---
 
-- Basketball
-- Videogames
-   
-- ### TIL from 🗒 [til.xiaozhu.dev](https://til.xiaozhu.dev)
+## 📘 Sobre mí
 
-- [DNS 服务器分类和域名解析流程](https://til.xiaozhu.dev/network/dns-intro) (2021-9-16)
-- [Node.js 包管理器的管理器 Corepack 的介绍和使用](https://til.xiaozhu.dev/node/corepack) (2021-9-15)
-- [sticky 基本使用](https://til.xiaozhu.dev/css/position-sticky) (2021-9-11)
+🎓 Graduado en Economía por la Universidad de Valencia (2020–2024)  
+🎓 Máster en Big Data y Cloud Computing en EDEM  
+💡 Me apasiona transformar datos en decisiones y construir soluciones reales en la nube
 
-### Portfolio
+---
 
-> *pending...*
+## 🚀 Tecnologías que estoy aprendiendo / usando
 
-![Leo's github stats](https://github-readme-stats.vercel.app/api?username=mopig&show_icons=true&theme=dracula&hide=stars,issues)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+</p>
 
-<details>
-  <summary>Click👆</summary>
-  <pre>
-  🤷‍♂️
-  </pre>
-</details>
+---
 
-![build](https://github.com/mopig/mopig/workflows/build/badge.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/mopig/mopig)
-![pv](https://pageview.vercel.app/?github_user=mopig)
+## 🏀 Hobbies
+
+- Baloncesto  
+- Videojuegos  
+- Aprender cosas nuevas cada día  
+
+---
+
+## 🔗 Contacto
+
+- 📫 Email: angelmartinez.dev *(o el que tú me digas)*  
+- 💼 LinkedIn: [tu enlace aquí]  
+- 🧠 Proyectos: en construcción...
