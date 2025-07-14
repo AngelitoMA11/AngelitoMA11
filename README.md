@@ -37,6 +37,4 @@
 
 ## 🔗 Contacto
 
-- 📫 Email: angelmartinez.dev *(o el que tú me digas)*  
-- 💼 LinkedIn: [tu enlace aquí]  
-- 🧠 Proyectos: en construcción...
+- 💼 LinkedIn:[ https://www.linkedin.com/in/angel-martinez-albert/ ]
